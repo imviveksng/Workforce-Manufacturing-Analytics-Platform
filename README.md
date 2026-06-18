@@ -179,7 +179,7 @@ Workforce-Manufacturing-Analytics-Platform/
 
 ## 📈 Dashboard Pages
 
-(dashboards/dashboard_screenshots/1.png)
+![Dashboard](dashboards/dashboard_screenshots/1.png)
 ### 🔷 Executive Summary
 - Total employee headcount
 - Overall attendance percentage
