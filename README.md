@@ -187,19 +187,19 @@ Workforce-Manufacturing-Analytics-Platform/
 - Total production units
 - Defect percentage
 
-(dashboards/dashboard_screenshots/2.png)
+![Dashboard](dashboards/dashboard_screenshots/2.png)
 ### 🔷 Workforce Analytics
 - Department-wise attendance breakdown
 - Shift-level performance comparison
 - Employee-level attendance ranking
 
-(dashboards/dashboard_screenshots/3.png)
+![Dashboard](dashboards/dashboard_screenshots/3.png)
 ### 🔷 Overtime Analytics
 - Top 10 employees by OT hours
 - Department-wise OT distribution
 - OT trends over time
 
-(dashboards/dashboard_screenshots/4.png)
+![Dashboard](dashboards/dashboard_screenshots/4.png)
 ### 🔷 Production & Quality Analytics
 - Production output by machine
 - Defect percentage by date/department
