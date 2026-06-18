@@ -179,6 +179,7 @@ Workforce-Manufacturing-Analytics-Platform/
 
 ## 📈 Dashboard Pages
 
+(dashboards/dashboard_screenshots/1.png)
 ### 🔷 Executive Summary
 - Total employee headcount
 - Overall attendance percentage
@@ -186,16 +187,19 @@ Workforce-Manufacturing-Analytics-Platform/
 - Total production units
 - Defect percentage
 
+(dashboards/dashboard_screenshots/2.png)
 ### 🔷 Workforce Analytics
 - Department-wise attendance breakdown
 - Shift-level performance comparison
 - Employee-level attendance ranking
 
+(dashboards/dashboard_screenshots/3.png)
 ### 🔷 Overtime Analytics
 - Top 10 employees by OT hours
 - Department-wise OT distribution
 - OT trends over time
 
+(dashboards/dashboard_screenshots/4.png)
 ### 🔷 Production & Quality Analytics
 - Production output by machine
 - Defect percentage by date/department
@@ -266,7 +270,7 @@ Open `dashboards/Workforce_Manufacturing_Analytics.pbix` in Power BI Desktop and
 
 Feel free to connect or reach out if you have questions about this project!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/imviveksng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-kumar-singh-2b41bb229)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imviveksng)
 
 ---
