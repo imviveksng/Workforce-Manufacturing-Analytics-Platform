@@ -126,7 +126,7 @@ Workforce-Manufacturing-Analytics-Platform/
 │   └── generate_quality.py
 │
 ├── sql/
-│   ├── schema.sql
+│   ├── company_db.sql
 │   └── analytics_queries.sql
 │
 ├── dashboards/
@@ -171,7 +171,7 @@ Workforce-Manufacturing-Analytics-Platform/
 
 ### 3. Load
 - Connect to PostgreSQL via `SQLAlchemy` and `psycopg2`
-- Create schema using `schema.sql`
+- Create using `company_db`
 - Load all transformed tables into the database
 - Confirm row counts and data integrity
 
@@ -262,18 +262,12 @@ Open `dashboards/Workforce_Manufacturing_Analytics.pbix` in Power BI Desktop and
 
 ---
 
-## 📄 Resume Summary
-
-> Developed an end-to-end Workforce & Manufacturing Analytics Platform using Excel, Python, PostgreSQL, SQL, and Power BI. Built ETL pipelines processing 627K+ records, implemented data validation and transformation logic, designed analytical data models, and developed interactive dashboards for workforce attendance, overtime, production, and quality monitoring.
-
----
-
 ## 📬 Connect
 
 Feel free to connect or reach out if you have questions about this project!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/imviveksng)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imviveksng)
 
 ---
 
